@@ -1,7 +1,7 @@
 image:
   repository: blakeblackshear/frigate
   pullPolicy: IfNotPresent
-  tag: 0.10.0-beta6-amd64nvidia
+  tag: 0.10.0-amd64nvidia
 
 securityContext:
   readOnlyRootFilesystem: false
